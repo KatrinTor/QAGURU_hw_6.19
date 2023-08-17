@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pythonproject1"
+name = "the_great_poetry_project"
 version = "0.1.0"
 description = ""
 authors = ["Katrin Torsunova <tester@list.ru>"]
